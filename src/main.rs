@@ -7,7 +7,6 @@ fn main() {
     // println!("{}", a);
     let c = test_fun();
     // println!("{} ", c);
-    println!("123");
 }
 
 fn test_fun() -> i32 {
