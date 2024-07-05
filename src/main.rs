@@ -6,16 +6,16 @@ fn main() {
     println!("{:?}", b);
     // println!("{}", a);
     let c = test_fun();
-    // println!("{} ", c);
+    println!("{} ", c);
 }
 
 fn test_fun() -> i32 {
     4
 }
 
-fn test2() {
-    println!("fdstat");
-}
+// fn test2() {
+//     println!("fdstat");
+// }
 
 #[test]
 fn test_main() {
