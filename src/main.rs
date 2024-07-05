@@ -17,6 +17,6 @@ mod tests {
 
     #[test]
     fn test_main() {
-        assert_eq!(1, 1); // code for test6
+        assert_eq!(1, 1); // code for test7
     }
 }
