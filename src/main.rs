@@ -14,10 +14,9 @@ fn test_fun() -> i32 {
 
 #[cfg(test)]
 mod tests {
-    use super::*;
 
     #[test]
     fn test_main() {
-        assert_eq!(1, 1);
+        assert_eq!(1, 1); // code for test1
     }
 }
