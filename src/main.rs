@@ -6,7 +6,7 @@ fn main() {
     println!("{:?}", b);
     // println!("{}", a);
     let c = test_fun();
-    println!("{} ", c);
+    // println!("{} ", c);
 }
 
 fn test_fun() -> i32 {
